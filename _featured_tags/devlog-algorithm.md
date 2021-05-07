@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Algorithm
+title: ㅁㄴㅇㄻㄻㅇㄹ
 slug: algorithm
 category: devlog
 menu: false

@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Artwork
+title: 메늊ㅈㅈㅈㅈㅈㅈ
 slug: artwork
 menu: false
 submenu: false

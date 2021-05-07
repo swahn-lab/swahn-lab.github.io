@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Devlog
+title: 메뉴222222
 slug: devlog
 menu: true
 submenu: true

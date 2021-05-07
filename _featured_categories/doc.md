@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Documents
+title: 메뉴222222
 slug: doc
 menu: true
 submenu: true

@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Video
+title: 메늉ㅇㅇㅇㅇㅇㅇ
 slug: video
 menu: true
 submenu: true

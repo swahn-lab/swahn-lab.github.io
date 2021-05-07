@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Tip
+title: 메뉴222424
 slug: tip
 menu: true
 submenu: false

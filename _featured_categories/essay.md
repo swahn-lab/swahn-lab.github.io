@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Essay
+title: 메뉴11111
 slug: essay
 menu: true
 submenu: false
